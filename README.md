@@ -1,7 +1,12 @@
 ### Hi there 👋
-QA-engineer
-### Projects
-https://github.com/
+Senior QA-engineer VK Connect
+### My Personal Projects
+https://trofimovdigital.ru
+https://tripcolor.ru/
+### My Work Projects
+https://connect.vk.com
+https://video.yandex.ru
+https://github.com/angry-qa/vkc-demo
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=angry-qa&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
