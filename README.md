@@ -2,10 +2,13 @@
 Senior QA-engineer VK Connect
 ### My Personal Projects
 https://trofimovdigital.ru
+
 https://tripcolor.ru/
 ### My Work Projects
 https://connect.vk.com
+
 https://video.yandex.ru
+
 https://github.com/angry-qa/vkc-demo
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
