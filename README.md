@@ -1,6 +1,6 @@
 ### Hi there 👋
-Senior QA-engineer VK Connect
-exQA-engineer
+I'm AngryQA, Senior QA-engineer VKConnect and exQA-engineer Yandex.Video and Yandex.Station.
+
 ### My Personal Projects
 <a href="https://trofimovdigital.ru">trofimovdigital.ru</a>
 
