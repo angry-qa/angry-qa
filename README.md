@@ -1,17 +1,17 @@
 ### Hi there 👋
-I'm AngryQA, Senior QA-engineer <a href="https://connect.vk.com" target="_blank>VKConnect</a> and exQA-engineer <a href="https://yandex.ru/video" target="_blank>Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank>Yandex.Station</a> teams.
+I'm AngryQA, Senior QA-engineer <a href="https://connect.vk.com" target="_blank">VKConnect</a> and exQA-engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams.
 
 ### My Personal Projects
-IT&QA blog: <a href="https://trofimovdigital.ru" target="_blank>trofimovdigital.ru</a>
+IT&QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofimovdigital.ru</a>
 
 
-Travel blog: <a href="https://tripcolor.ru" target="_blank>tripcolor.ru</a>
+Travel blog: <a href="https://tripcolor.ru" target="_blank">tripcolor.ru</a>
 
 ### My Work Projects
-<a href="https://connect.vk.com" target="_blank>connect.vk.com</a>
+<a href="https://connect.vk.com" target="_blank">connect.vk.com</a>
 
 
-<a href="https://yandex.ru/video" target="_blank>video.yandex.ru</a>
+<a href="https://yandex.ru/video" target="_blank">video.yandex.ru</a>
 
 https://github.com/angry-qa/vkc-demo
 
