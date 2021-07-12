@@ -5,7 +5,10 @@ Senior QA-engineer VK Connect
 trofimovdigital.ru
 </a>
 
-https://tripcolor.ru/
+<a href="https://tripcolor.ru">
+tripcolor.ru
+</a>
+
 ### My Work Projects
 https://connect.vk.com
 
