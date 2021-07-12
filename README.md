@@ -9,9 +9,7 @@ Useful IT & QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofim
 
 Travel blog: <a href="https://tripcolor.ru" target="_blank">tripcolor.ru</a>
 
-### Demo Projects
-
-https://github.com/angry-qa/vkc-demo
+Demo Projects for QA.Guru: https://github.com/angry-qa/vkc-demo
 
 ### Contacts
 <a href="https://vk.com/angryqa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="angryqa" height="30" width="30" /></a>
