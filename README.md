@@ -2,7 +2,7 @@
 I'm AngryQA, Senior QA-engineer <a href="https://connect.vk.com" target="_blank">VKConnect</a> and exQA-engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams.
 
 ### My Personal Projects
-IT&QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofimovdigital.ru</a>
+Useful IT & QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofimovdigital.ru</a>
 
 
 Travel blog: <a href="https://tripcolor.ru" target="_blank">tripcolor.ru</a>
