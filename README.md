@@ -1,13 +1,10 @@
 ### Hi there 👋
 Senior QA-engineer VK Connect
 ### My Personal Projects
-<a href="https://trofimovdigital.ru">
-trofimovdigital.ru
-</a>
+<a href="https://trofimovdigital.ru">trofimovdigital.ru</a>
 
-<a href="https://tripcolor.ru">
-tripcolor.ru
-</a>
+
+<a href="https://tripcolor.ru">tripcolor.ru</a>
 
 ### My Work Projects
 https://connect.vk.com
