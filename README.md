@@ -21,7 +21,9 @@ https://github.com/angry-qa/vkc-demo
 
 ### Might be interesting
 <a href="https://trofimovdigital.ru/blog/how-porn-interfaces-are-tested-in-yandex" target="_blank">Как я тестировал порно интерфейсы в Яндекс.Видео</a>
+
 <a href="https://trofimovdigital.ru/blog/junit-vs-testng" target="_blank">JUnit vs TestNG</a>
+
 <a href="https://trofimovdigital.ru/blog/how-to-use-charles" target="_blank">Как использовать Charles</a>
 
 <!--
