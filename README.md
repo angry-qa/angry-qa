@@ -1,5 +1,7 @@
-### Hi there 👋
-I'm AngryQA, Senior QA-engineer <a href="https://connect.vk.com" target="_blank">VKConnect</a> and exQA-engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams.
+### Hi dear, I'm AngryQA 👋
+<a href="https://vk.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/vk.png" alt="VKConnect" height="22" width="22" /></a> Senior QA-engineer <a href="https://connect.vk.com" target="_blank">VKConnect</a>
+
+<a href="https://yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/yandex.png" alt="Yandex" height="22" width="22" /></a> exQA-engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams
 
 ### My Personal Projects
 Useful IT & QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofimovdigital.ru</a>
