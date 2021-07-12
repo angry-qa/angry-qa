@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm AngryQA, Senior QA-engineer VKConnect and exQA-engineer Yandex.Video and Yandex.Station.
+I'm AngryQA, Senior QA-engineer VKConnect and exQA-engineer Yandex.Video and Yandex.Station teams.
 
 ### My Personal Projects
 <a href="https://trofimovdigital.ru">trofimovdigital.ru</a>
