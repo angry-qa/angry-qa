@@ -11,6 +11,10 @@ Travel blog: <a href="https://tripcolor.ru" target="_blank">tripcolor.ru</a>
 
 https://github.com/angry-qa/vkc-demo
 
+### Contacts
+<a href="https://vk.com/angryqa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="angryqa" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/angryqa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="angryqa" height="30" width="40" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=angry-qa&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
