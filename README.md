@@ -1,5 +1,6 @@
 ### Hi there 👋
 Senior QA-engineer VK Connect
+exQA-engineer
 ### My Personal Projects
 <a href="https://trofimovdigital.ru">trofimovdigital.ru</a>
 
@@ -7,9 +8,10 @@ Senior QA-engineer VK Connect
 <a href="https://tripcolor.ru">tripcolor.ru</a>
 
 ### My Work Projects
-https://connect.vk.com
+<a href="https://connect.vk.com">connect.vk.com</a>
 
-https://video.yandex.ru
+
+<a href="https://yandex.video.ru">video.yandex.ru</a>
 
 https://github.com/angry-qa/vkc-demo
 
