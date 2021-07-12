@@ -11,7 +11,7 @@ exQA-engineer
 <a href="https://connect.vk.com">connect.vk.com</a>
 
 
-<a href="https://yandex.video.ru">video.yandex.ru</a>
+<a href="https://yandex.ru/video">video.yandex.ru</a>
 
 https://github.com/angry-qa/vkc-demo
 
