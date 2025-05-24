@@ -1,7 +1,7 @@
 ### Hi dear, I'm Dmitry 👋
-<a href="https://vk.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/vk.png" alt="VK ID" height="22" width="22" /></a> exQA Automation Lead <a href="https://id.vk.com" target="_blank">VK ID</a>
+<a href="https://vk.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/vk.png" alt="VK ID" height="22" width="22" /></a> ex-QA Automation Lead <a href="https://id.vk.com" target="_blank">VK ID</a>
 
-<a href="https://yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/yandex.png" alt="Yandex" height="22" width="22" /></a> exQA-engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams
+<a href="https://yandex.ru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angry-qa/angry-qa/main/yandex.png" alt="Yandex" height="22" width="22" /></a> ex-QA Engineer <a href="https://yandex.ru/video" target="_blank">Yandex.Video</a> and <a href="https://yandex.ru/alice/station" target="_blank">Yandex.Station</a> teams
 
 ### My Personal Projects
 Useful IT & QA blog: <a href="https://trofimovdigital.ru" target="_blank">trofimovdigital.ru</a>
